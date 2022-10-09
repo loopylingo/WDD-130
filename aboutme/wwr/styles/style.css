@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0.5em;
+    line-height: -1em;
+    margin: 1em;
+}
+body {
+    background-color: grey;
+}
+header {
+    background-color: blue;
+}
+.logo-box {
+    width: 80px;
+}
+.book, .join {
+    text-decoration: none;
+}
+
+#background {
+    background-color: purple;
+}
+footer {
+    background-color: pink;
+}
+footer a:hover {
+    background-color: orange;
+}
+footer a {
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.2em;
+}
+footer p a:hover {
+    text-decoration: underline;
+}
+h1, h2, h3, h4 {
+    background-color: black;
+}
+.hero-msg {
+    background-color: whitesmoke;
+}
+.card-1, .card-2, .card-3 {
+    color: black;
+}
+.hero-msg, .card-1, .card-2, .card-3 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+.main {
+    text-align: center;
+}
+#background {
+    height: 725px;
+    background-color: #43BD7D;
+  }
+
+nav {
+        background-color: #BE6106;
+        font-family: "Lobster", cursive;
+        line-height: 3em;
+        text-align: center;
+        font-size: 1.2em;
+      }
+      nav  {
+        list-style-type: none;
+        display: flex;
+      }
+      nav a {
+        text-align: center;
+        padding:1em;
+        min-width: 120px;
+        text-decoration: none;
+        padding: 10px;
+      }
+      nav a:link, nav a:visited {
+        color: green;
+      }
+      nav a:hover {
+        color: brown;
+        background-color: green;
+  }
+main {
+    color: #42271C;
+    font-family: Arial, sans-serif;
+  }
